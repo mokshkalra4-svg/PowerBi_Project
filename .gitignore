@@ -1,0 +1,38 @@
+# Power BI cache
+*.pbix~
+*.tmp
+
+# Power BI local settings
+*.pbit.cache
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Output files
+*.csv
+*.zip
